@@ -14,6 +14,13 @@
 		
 			<atom:link href="https://augastrue.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Apie darba</title>
+				<link>https://augastrue.github.io/apie/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://augastrue.github.io/apie/</guid>
+				<description>&lt;p&gt;Sis puslapis pridetas kaip savarankiskos uzduoties dalis. Jis pasiekiamas per nauja meniu punkta „Apie darba“.&lt;/p&gt;&#xA;&lt;p&gt;Darbo metu buvo panaudoti Hugo, Git ir GitHub Pages irankiai.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Pirmas irasas</title>
 				<link>https://augastrue.github.io/posts/pirmas-irasas/</link>
 				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
