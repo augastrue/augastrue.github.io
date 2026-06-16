@@ -14,11 +14,11 @@
 		
 			<atom:link href="https://augastrue.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Pirmas įrašas</title>
+				<title>Pirmas irasas</title>
 				<link>https://augastrue.github.io/posts/pirmas-irasas/</link>
 				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>https://augastrue.github.io/posts/pirmas-irasas/</guid>
-				<description>&lt;p&gt;Tai yra mano pirmasis Hugo svetainės įrašas. Ši svetainė sukurta laboratoriniam darbui naudojant Hugo, Git ir GitHub Pages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;apie-darbą&#34;&gt;Apie darbą&lt;/h2&gt;&#xA;&lt;p&gt;Šiame darbe buvo sukurta statinė svetainė naudojant Hugo generatorių. Svetainės kodas saugomas GitHub saugykloje, o sugeneruotas puslapis publikuojamas per GitHub Pages.&lt;/p&gt;</description>
+				<description>&lt;hr&gt;&#xA;&lt;p&gt;Tai yra mano pirmasis Hugo svetaines irasas. Si svetaine sukurta laboratoriniam darbui naudojant Hugo, Git ir GitHub Pages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paveiksliukas&#34;&gt;Paveiksliukas&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://augastrue.github.io/img/hugo-git-schema.svg&#34; alt=&#34;Hugo, Git ir GitHub Pages schema&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodo-citata&#34;&gt;Kodo citata&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Labas, Hugo!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Sis puslapis sugeneruotas naudojant Hugo statiniu puslapiu generatoriu.&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;apie-darba&#34;&gt;Apie darba&lt;/h2&gt;&#xA;&lt;p&gt;Siame darbe buvo sukurta statine svetaine naudojant Hugo generatoriu. Svetaines kodas saugomas GitHub saugykloje, o sugeneruotas puslapis publikuojamas per GitHub Pages.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
